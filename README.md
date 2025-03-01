@@ -19,7 +19,7 @@
 
 ## Projects i have worked with
  <a href="#">
-    <img src="icons/onlyrp.png" alt="nodejs" style="vertical-align:top margin:6px 100px">
+    <img src="icons/onlyrp.png" alt="onlyrp" style="vertical-align:top margin:6px 100px">
   </a>
 
 <!--
