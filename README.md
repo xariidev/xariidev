@@ -1,9 +1,13 @@
 ## XariiDev
+
+# Frameworks
  <a href="#">
     <img src="icons/python.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
-
-
+# Languages
+ <a href="#">
+    <img src="icons/python.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
 
 <!--
 **xariidev/xariidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
