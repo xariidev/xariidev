@@ -22,7 +22,6 @@
 **OnlyRP** - Bot Developer
 
 https://onlyrp.pl
-
 https://discord.gg/onlyrp
 
  <a href="#">
