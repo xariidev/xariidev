@@ -18,10 +18,14 @@
   </a>
 
 ## Projects i have worked with
+
 **discord.gg/onlyrp**
+
  <a href="#">
     <img src="icons/onlyrp.png" alt="onlyrp" style="vertical-align:top margin:6px 100px">
   </a>
+
+  --------------------------------------------------
 
 <!--
 **xariidev/xariidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
