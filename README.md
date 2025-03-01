@@ -18,6 +18,9 @@
   </a>
 
 ## Projects i have worked with
+ <a href="#">
+    <img src="icons/onlyrp.png" alt="nodejs" style="vertical-align:top margin:6px 100px">
+  </a>
 
 <!--
 **xariidev/xariidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
