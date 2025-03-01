@@ -22,6 +22,7 @@
     <img src="icons/onlyrp.png" alt="onlyrp" style="vertical-align:top margin:6px 100px">
   </a>
   https://discord.gg/onlyrp
+  [![Discord](https://img.shields.io/badge/discord-alfred-5865F2?logo=discord&logoColor=white)](https://discord.gg/nMn9YPRGSY)
 
 <!--
 **xariidev/xariidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
