@@ -1,5 +1,8 @@
 # XariiDev
 
+🌐 - **Professional Developer**
+      since ***2022***
+📞 - **Contact me on Discord:** xarii808
 ## Languages
  <a href="#">
     <img src="icons/js.png" alt="javascript" style="vertical-align:top margin:6px 100px">
