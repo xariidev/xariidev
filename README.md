@@ -21,8 +21,9 @@
 
 **OnlyRP** - Bot Developer
 
-**onlyrp.pl
-discord.gg/onlyrp**
+**onlyrp.pl**
+
+**discord.gg/onlyrp**
 
  <a href="#">
     <img src="icons/onlyrp.png" alt="onlyrp" style="vertical-align:top margin:6px 100px">
