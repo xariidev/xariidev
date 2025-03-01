@@ -1,10 +1,10 @@
-## XariiDev
+# XariiDev
 
-# Frameworks
+## Frameworks
  <a href="#">
     <img src="icons/python.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
-# Languages
+## Languages
  <a href="#">
     <img src="icons/python.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
