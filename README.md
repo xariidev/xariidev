@@ -2,7 +2,7 @@
 
 🌐 - **Professional Developer**
 
-💵 - 1 **Satisfied Customer**
+💵 - 4 **Satisfied Customers**
 
 📞 - **Contact me on Discord:** xarii808
 
