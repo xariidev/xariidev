@@ -1,7 +1,7 @@
 # XariiDev
 
 🌐 - **Professional Developer**
-      
+💵 - 1 **Satisfied Customer**
 📞 - **Contact me on Discord:** xarii808
 ## Languages
  <a href="#">
@@ -15,18 +15,6 @@
  <a href="#">
     <img src="icons/nodejs.png" alt="nodejs" style="vertical-align:top margin:6px 100px">
     <img src="icons/react.png" alt="react" style="vertical-align:top margin:6px 100px">
-  </a>
-
-## Projects i have worked with
-
-**OnlyRP** - Bot Developer
-
-**onlyrp.pl**
-
-**discord.gg/onlyrp**
-
- <a href="#">
-    <img src="icons/onlyrp.png" alt="onlyrp" style="vertical-align:top margin:6px 100px">
   </a>
 
   --------------------------------------------------
