@@ -21,7 +21,7 @@
 ## Projects i have worked with
 **ShootGG** - Bot Developer
 
-(https://discord.gg/shootgg)[Discord]
+[https://discord.gg/shootgg](Discord)
 
  <a href="#">
     <img src="icons/shootgg.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
