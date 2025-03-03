@@ -19,8 +19,7 @@
   </a>
 
 ## Projects i have worked with
-**ShootGG** - Bot Developer
-
+### **ShootGG** - Bot Developer
 [Discord](https://discord.gg/shootgg)
 
 [Website](https://indrop.eu/s/shootgg)
