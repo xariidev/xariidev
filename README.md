@@ -19,6 +19,8 @@
   </a>
 
 ## Projects i have worked with
+**ShootGG** - Bot Developer
+
  <a href="#">
     <img src="icons/shootgg.png" alt="nodejs" style="vertical-align:top margin:6px 100px">
   </a>
