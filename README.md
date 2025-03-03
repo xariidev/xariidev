@@ -18,6 +18,11 @@
     <img src="icons/nodejs.png" alt="nodejs" style="vertical-align:top margin:6px 100px">
   </a>
 
+## Projects i have worked with
+ <a href="#">
+    <img src="icons/shootgg.png" alt="nodejs" style="vertical-align:top margin:6px 100px">
+  </a>
+
   --------------------------------------------------
 
 <!--
