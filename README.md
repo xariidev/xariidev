@@ -17,7 +17,6 @@
 ## Frameworks 
  <a href="#">
     <img src="icons/nodejs.png" alt="nodejs" style="vertical-align:top margin:6px 100px">
-    <img src="icons/react.png" alt="react" style="vertical-align:top margin:6px 100px">
   </a>
 
   --------------------------------------------------
