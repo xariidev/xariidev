@@ -21,7 +21,9 @@
 ## Projects i have worked with
 **ShootGG** - Bot Developer
 
-[https://discord.gg/shootgg](Discord)
+[Discord](https://discord.gg/shootgg)
+
+[Website](https://indrop.eu/s/shootgg)
 
  <a href="#">
     <img src="icons/shootgg.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
