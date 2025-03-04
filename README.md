@@ -25,7 +25,7 @@
 [Website](https://indrop.eu/s/shootgg)
 
  <a href="#">
-    <img src="icons/Web_Photo_Editor.jpg" alt="nodejs" style="vertical-align:top margin:6px 20px">
+    <img src="icons/shoot.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
   </a>
 
   --------------------------------------------------
