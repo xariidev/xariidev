@@ -19,10 +19,7 @@
   </a>
 
 ## Projects i have worked with
-### **ShootGG** - Bot Developer
-[Discord](https://discord.gg/shootgg)
-
-[Website](https://indrop.eu/s/shootgg)
+### **ShootGG** - Bot Developer | **[Discord](https://discord.gg/shootgg)** | **[Website](https://indrop.eu/s/shootgg)**
 
  <a href="#">
     <img src="icons/shoot.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
