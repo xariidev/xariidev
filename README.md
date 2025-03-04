@@ -18,7 +18,7 @@
     <img src="icons/nodejs.png" alt="nodejs" style="vertical-align:top margin:6px 100px">
   </a>
 
-## Projects i have worked with
+## Big Projects i have worked for
 ### **ShootGG** - Bot Developer | **[Discord](https://discord.gg/shootgg)** | **[Website](https://indrop.eu/s/shootgg)** |
 
  <a href="#">
