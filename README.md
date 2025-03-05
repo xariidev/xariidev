@@ -1,8 +1,8 @@
 # XariiDev
 
-🌐 - **Professional Developer**
+🌐 - **Professional Bot Developer**
 
-💵 - 4 **Satisfied Customers**
+💵 - 7 **Satisfied Customers**
 
 📞 - **Contact me on Discord:** xarii808
 
