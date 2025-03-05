@@ -22,7 +22,7 @@
 ### **ShootGG** - Bot Developer | **[Discord](https://discord.gg/shootgg)** | **[Website](https://indrop.eu/s/shootgg)** |
 
  <a href="#">
-    <img src="icons/shootgg2.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
+    <img src="icons/shootgg.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
   </a>
 
   --------------------------------------------------
@@ -30,7 +30,7 @@
 ### **WavesRP** - Bot Developer | **[Discord](https://discord.gg/wavesrp)** | **[Website](https://indrop.eu/s/wavesrp)** |
 
 <a href="#">
-  <img src="icons/logo2.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
+  <img src="icons/wavesrp.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
 </a>
 
 <!--
