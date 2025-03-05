@@ -27,6 +27,12 @@
 
   --------------------------------------------------
 
+### **WavesRP** - Bot Developer | **[Discord](https://discord.gg/wavesrp)** | **[Website](https://indrop.eu/s/wavesrp)** |
+
+<a href="#">
+  <img src="icons/logo2.png" alt="nodejs" style="vertical-align:top margin:6px 20px">
+</a>
+
 <!--
 **xariidev/xariidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
