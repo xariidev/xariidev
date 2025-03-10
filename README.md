@@ -10,6 +10,8 @@
  <a href="#">
     <img src="icons/js.png" alt="javascript" style="vertical-align:top margin:6px 100px">
     <img src="icons/html.png" alt="html" style="vertical-align:top margin:6px 100px">
+    <img src="icons/css.png" alt="html" style="vertical-align:top margin:6px 100px">
+    <img src="icons/lua.png" alt="html" style="vertical-align:top margin:6px 100px">
     <img src="icons/python.png" alt="python" style="vertical-align:top margin:6px 100px">
   </a>
 
