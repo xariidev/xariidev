@@ -1,6 +1,6 @@
 # XariiDev
 
-🌐 - **Professional Bot Developer**
+🌐 - **Node.js Specialist**
 
 💵 - 7 **Satisfied Customers**
 
